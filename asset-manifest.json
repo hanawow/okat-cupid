@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/okat-cupid/static/css/main.f777735f.chunk.css",
-    "main.js": "/okat-cupid/static/js/main.f035d7ff.chunk.js",
-    "main.js.map": "/okat-cupid/static/js/main.f035d7ff.chunk.js.map",
+    "main.css": "/okat-cupid/static/css/main.2724d478.chunk.css",
+    "main.js": "/okat-cupid/static/js/main.beafe234.chunk.js",
+    "main.js.map": "/okat-cupid/static/js/main.beafe234.chunk.js.map",
     "runtime~main.js": "/okat-cupid/static/js/runtime~main.2982c164.js",
     "runtime~main.js.map": "/okat-cupid/static/js/runtime~main.2982c164.js.map",
     "static/js/2.e137c02f.chunk.js": "/okat-cupid/static/js/2.e137c02f.chunk.js",
     "static/js/2.e137c02f.chunk.js.map": "/okat-cupid/static/js/2.e137c02f.chunk.js.map",
     "index.html": "/okat-cupid/index.html",
-    "precache-manifest.132bbc19f53c7cc9e3f4d7fc12b7d291.js": "/okat-cupid/precache-manifest.132bbc19f53c7cc9e3f4d7fc12b7d291.js",
+    "precache-manifest.4c4310258d67bec664b3eeb14d1a9078.js": "/okat-cupid/precache-manifest.4c4310258d67bec664b3eeb14d1a9078.js",
     "service-worker.js": "/okat-cupid/service-worker.js",
-    "static/css/main.f777735f.chunk.css.map": "/okat-cupid/static/css/main.f777735f.chunk.css.map"
+    "static/css/main.2724d478.chunk.css.map": "/okat-cupid/static/css/main.2724d478.chunk.css.map"
   }
 }
